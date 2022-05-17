@@ -1,5 +1,5 @@
 import client from './Client';
 
-export async function addCustomer(newCustomer) {
+export async function createCustomer(newCustomer) {
     await client.post('/customers', newCustomer)
 }

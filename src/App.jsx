@@ -13,6 +13,7 @@ function App() {
                     <BrowserRouter>
                         <Routes>
                             <Route exact path="/" element={<CreateCustomerForm/>}/>
+                            <Route exact path="/create-customer" element={<CreateCustomerForm/>}/>
                             {/*<Route exact path="/setup-date" element={<SetupDate/>}/>*/}
                             <Route path="*" element={<Navigate to="/" />} />
                         </Routes>
