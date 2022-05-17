@@ -13,10 +13,10 @@ function Header() {
                 <div className="col-8">
                     <nav className="navbar navbar-expand-log container
             navbar-light bg-light mt-5" role="navigation">
-                        <a href='#'>Customers</a>
-                        <a href='#'>Nav #2</a>
-                        <a href='#'>Nav #3</a>
-                        <a href='#'>Nav #4</a>
+                        <a href='/'>Customers</a>
+                        {/*<a href='#'>Nav #2</a>*/}
+                        {/*<a href='#'>Nav #3</a>*/}
+                        {/*<a href='#'>Nav #4</a>*/}
                     </nav>
                 </div>
             </div>
