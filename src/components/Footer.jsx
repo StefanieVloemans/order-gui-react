@@ -1,4 +1,4 @@
-import {React} from 'react';
+import React from 'react';
 import orderIcon from "../assets/images/order-icon.png";
 
 function Footer() {

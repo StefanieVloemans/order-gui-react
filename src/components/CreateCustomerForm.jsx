@@ -1,4 +1,4 @@
-import {React, useState} from 'react';
+import React, {useState} from 'react';
 import {createCustomer} from "../api/CustomerService";
 
 function CreateCustomerForm() {
