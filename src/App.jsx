@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import CreateCustomerForm from "./components/CreateCustomerForm"
 import {BrowserRouter, Routes, Route, Navigate} from "react-router-dom";
-import {React} from 'react';
+import React from 'react';
 
 
 function App() {
